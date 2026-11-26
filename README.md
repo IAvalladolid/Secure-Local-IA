@@ -1,3 +1,6 @@
+<img width="1920" height="1048" alt="Screenshot From 2026-11-26 19-46-10" src="https://github.com/user-attachments/assets/733cfac4-3eff-4538-a254-ebd74d238bab" />
+<img width="1920" height="1048" alt="Screenshot From 2026-11-26 19-44-36" src="https://github.com/user-attachments/assets/f5a7a211-9656-48c8-a90e-1570baadb5bd" />
+<img width="1920" height="1048" alt="Screenshot From 2026-11-26 19-31-51" src="https://github.com/user-attachments/assets/2048fb5e-d7f0-4d60-a687-82689fed7123" />
 # 🧠 Secure Local AI Lab (Strix Halo Edition)
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
